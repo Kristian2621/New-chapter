@@ -1,0 +1,4 @@
+>>> x = "kristians"
+>>> x
+'kristians'
+>>> ''.join(sorted(x))
